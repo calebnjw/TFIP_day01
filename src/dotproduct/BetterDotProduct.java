@@ -1,4 +1,4 @@
-package myapp;
+package dotproduct;
 
 import java.io.Console;
 
